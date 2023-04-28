@@ -1,0 +1,34 @@
+split1
+Sensitivity: 94.12%
+Specificity: 100.00%
+Accuracy: 96.49%
+Precision: 100.00%
+F1: 96.97%
+
+split2
+Sensitivity: 92.65%
+Specificity: 100.00%
+Accuracy: 95.61%
+Precision: 100.00%
+F1: 96.18%
+
+split3
+Sensitivity: 92.65%
+Specificity: 100.00%
+Accuracy: 95.61%
+Precision: 100.00%
+F1: 96.18%
+
+split4
+Sensitivity: 94.12%
+Specificity: 100.00%
+Accuracy: 96.49%
+Precision: 100.00%
+F1: 96.97%
+
+split5
+Sensitivity: 95.59%
+Specificity: 100.00%
+Accuracy: 97.37%
+Precision: 100.00%
+F1: 97.74%
