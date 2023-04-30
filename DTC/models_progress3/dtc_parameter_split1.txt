@@ -1,0 +1,2 @@
+{'criterion': 'entropy', 'max_depth': 15, 'min_samples_leaf': 1, 'min_samples_split': 3, 'splitter': 'random'}
+0.9714763497372193
